@@ -1,0 +1,379 @@
+﻿FREQ,Frequency,REF_AREA,Territory,DATA_TYPE_AGGR,Aggregate,VALUATION,Valuation (DESC),ADJUSTMENT,Adjustment (DESC),EDITION,Edition (DESC),TIME_PERIOD,Observation,OBS_STATUS,Observation status,NOTE_REF_AREA,Territory (NOTE_REF_AREA),NOTE_DATA_TYPE_AGGR,Aggregate (NOTE_DATA_TYPE_AGGR),NOTE_VALUATION,Valuation (NOTE_VALUATION),NOTE_ADJUSTMENT,Adjustment (NOTE_ADJUSTMENT),NOTE_EDITION,Edition (NOTE_EDITION),BASE_PER,Base year,UNIT_MEAS,Measure unit,UNIT_MULT,Multiplication unit
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,1820930.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,1833594.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,1776290.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,1743996.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,1743972.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,1759418.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,1781168.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,1809733.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,1824693.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,1832524.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,1670011.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,1819161.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,1906866.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,IT,Italy,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,1920507.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,596864.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,601136.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,579696.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,569365.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,570822.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,576423.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,584676.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,597688.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,604732.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,604443.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,554189.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,609151.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,633953.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC,Nord-ovest,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,638702.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,138276.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,139833.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,132774,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,132507.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,131140.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,132573.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,134131.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,138049.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,139084,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,138296.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,124757,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,135915.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,140806.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC1,Piemonte,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,141165.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,5367.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,5343.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,5289.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,5018.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,4913.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,4863.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,4750.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,4870.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,4909,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,4894.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,4437.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,4704.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,4942,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,5014.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,53114.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,53369.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,51425.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,49761.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,50059,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,49986.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,50212.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,50872.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,50496.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,50552.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,44959.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,48537.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,50256.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC3,Liguria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,51110.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,400195.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,402677,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,390277.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,382129.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,384761.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,389042.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,395615.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,403930.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,410264.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,410719.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,380035.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,419993.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,437951.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITC4,Lombardia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,441407.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,402829.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,410634.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,398744.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,396250.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,398457.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,402073.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,408038,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,416454.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,422015.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,424088.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,386249.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,422363.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,440195.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD,Nord-est,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,441807.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,43350.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,43990.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,44218.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,44298.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,44467.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,44814.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,45395,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,46113.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,47564.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,48184.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,44161.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,47131.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,49942.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITDA,Trentino Alto Adige / Südtirol,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,50307.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,23308.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,23851.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,24298.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,24284.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,24447.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,24925.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,25149.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,25601,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,26455.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,26767.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,24398.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,25988.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,27637.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD1,Provincia Autonoma Bolzano / Bozen,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,27959.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,20015.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,20118.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,19912.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,20005.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,20013.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,19892.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,20245,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,20513.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,21109.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,21417.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,19762.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,21143.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,22303.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD2,Provincia Autonoma Trento,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,22345,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,163024,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,165858.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,160434.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,158966.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,159613,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,161434.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,164149.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,167558,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,168991.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,170186,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,153519.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,167907,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,176022.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD3,Veneto,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,177385.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,39289.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,39378.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,37523.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,37555.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,37428.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,38206.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,38053.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,38682.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,39197.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,39629.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,36404.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,39768.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,40441.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD4,Friuli-Venezia Giulia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,40228.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,157161.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,161403.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,156567.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,155426.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,156945.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,157614,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,160432.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,164087.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,166255,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,166083.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,152164.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,167555.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,173785.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITD5,Emilia-Romagna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,173877.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,401275.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,404064.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,389729.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,381174.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,380865.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,380692.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,387319.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,391818.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,394317.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,399314.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,359268.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,385518.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,407417.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE,Centro (I),B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,408827.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,119943.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,120972,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,118657.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,116353.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,117402.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,117363.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,118124.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,119862,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,121287,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,124534.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,108108.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,118122.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,125781.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE1,Toscana,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,125658.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,24630,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,24518.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,23406.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,22743.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,22100,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,22741.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,22544.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,22893.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,23314.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,23210,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,20979.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,22760.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,23615,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE2,Umbria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,23601.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,43939.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,43944.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,42311.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,41301.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,42002.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,41709.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,41939,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,42662.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,42873,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,43152.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,39248.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,42528.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,44340,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE3,Marche,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,44406.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,212737.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,214601.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,205355,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,200781.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,199392.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,198911.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,204716.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,206412.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,206865.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,208455.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,190931.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,202107.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,213681.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITE4,Lazio,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,215144.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,419574.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,417311.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,407755.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,396645.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,393355.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,399822.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,400225.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,402728.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,402587.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,403851.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,369452.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,400756,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,424865,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITFG,Mezzogiorno,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,430768.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,33952.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,34778.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,34165.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,33349.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,32913.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,33008.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,33192.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,33325.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,33208.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,33412.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,30550.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,33100.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,34957.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF1,Abruzzo,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,35692.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,7306.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,7191.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,6901.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,6427.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,6362.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,6488.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,6555.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,6677.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,6776.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,6857.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,6237,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,6703,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,6924.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF2,Molise,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,7006.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,115718.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,114190.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,111334.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,108119.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,108137.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,110075.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,110406.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,111570.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,111959,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,112784.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,102472.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,110887.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,117968,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF3,Campania,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,119365.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,78538.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,78759.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,77659.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,74995.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,75173.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,76092,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,76539.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,76853.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,77371.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,77445.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,71840.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,78263.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,82594,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF4,Puglia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,83378.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,11095,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,11293.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,10972.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,11167.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,11009.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,11997.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,12391.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,12410.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,12712.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,12504,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,11304.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,12450.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,12583.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF5,Basilicata,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,12651.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,37420.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,37064.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,35562.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,34382,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,34017,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,34633.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,34368.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,34517.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,34143.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,34070.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,31143.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,33616.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,34862.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITF6,Calabria,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,35269.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,99154.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,97567.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,95159.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,93262.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,90995.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,91736.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,91832.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,92235.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,91219.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,91204.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,83567.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,90649.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,97722.3,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG1,Sicilia,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,99728.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2010,36603.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2011,36627.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2012,36162.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2013,35059.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2014,34854.7,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2015,35842.4,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2016,34951.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2017,35146.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2018,35194.5,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2019,35573.1,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2020,32335.6,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2021,35084.2,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2022,37266.9,,,,,,,,,,,,,,,EURO,Euro,6,Millions
+A,Annual,ITG2,Sardegna,B1GQ_B_W2_S1,Gross domestic product at market prices,L_2020,Chain linked - reference year 2020,N,Raw data,2025M6,Jun-2025,2023,37694.8,,,,,,,,,,,,,,,EURO,Euro,6,Millions
